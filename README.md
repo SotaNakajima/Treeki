@@ -18,3 +18,5 @@ Made by:
 5. Joey Sandmeyer
 
 for CS121 project
+
+Note: Unfortunately, we have decided to deactivate our Firebase DB and this app is no longer functional. 
